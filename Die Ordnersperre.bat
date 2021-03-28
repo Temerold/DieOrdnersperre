@@ -90,7 +90,7 @@ echo !fail[3][%glob_lang%]!
 pause >nul
 exit /b
 
-:i18n_init
+:i18n
 :: Anmeldeoptionen
 set "passwort_erstellen[d]=Passwort erstellen"
 set "passwort_erstellen[e]=Create a password"
