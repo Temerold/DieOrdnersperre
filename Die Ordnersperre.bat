@@ -6,8 +6,8 @@ cls
 
 :: Konstanten
 set "folder=Ordner"
-set "lang_file=%folder%\lang.txt"
-set "pass_file=%folder%\pass.txt"
+set "lang_file=%folder%\lang"
+set "pass_file=%folder%\pass"
 
 :: Installation
 if not exist %folder%\ mkdir %folder%
