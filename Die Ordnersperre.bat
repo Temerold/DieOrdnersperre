@@ -95,9 +95,9 @@ exit /b
 set "passwort_erstellen[d]=Passwort erstellen"
 set "passwort_erstellen[e]=Create a password"
 set "passwort_erstellen[s]=Skapa ett lösenord"
-set "password[d]=Passwort"
-set "password[e]=Password"
-set "password[s]=Lösenord"
+set "passwort]=Passwort"
+set "passworte]=Password"
+set "passworts]=Lösenord"
 
 :: Menüoptionen
 set "sperren[d]=Sperren"
